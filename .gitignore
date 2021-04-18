@@ -1,0 +1,64 @@
+# =============== #
+# Unity generated #
+# =============== #
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+*.stackdump
+/Assets/AssetStoreTools*
+
+#Basic Ignore
+*.sln
+*.userprefs
+
+#Visual Studio Files
+[Ee]xported[Oo]bj/
+/.vs/
+/*.svd
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln
+/*.user
+/*.unityproj
+/*.booproj
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.unitypackage
+
+# =============== #
+# FMOD generated  #
+# =============== #
+/Assets/FMODStudioCache.asset
+/Assets/FMODStudioCache.asset.meta
+fmod.log
+fmod_editor.log
+
+/FMOD/*.user
+/FMOD/*.unsaved
+/FMOD/*.cache
+/FMOD/*.restore
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Excludes
+!*.dll

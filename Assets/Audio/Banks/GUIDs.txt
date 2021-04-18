@@ -1,0 +1,26 @@
+{2948cfc2-65df-449f-88c0-35346ddb636f} event:/movement/Footsteps/footsteps_gunz
+{33814f75-b665-4f8b-af11-4680fababab9} event:/movement/Footsteps/footsteps_rosez
+{230f47e2-dd0a-45c5-bc8c-f92e937ed40f} event:/movement/dash
+{36ef7a9a-d597-4764-80dc-3c93269ef9d2} event:/movement/jump
+{fd878fce-6128-4395-8f4d-43057367783f} event:/movement/land
+{a508580f-72fb-4b18-aee0-74780662625d} event:/music/level_music
+{52e56464-9999-4ad3-b53d-7b0c77285fe4} event:/music/title_music
+{496fdc22-5ee2-4450-bdc6-f9a026b5ca84} event:/voiceover/death _r
+{05b5df48-75d3-42b6-a160-c98d816940ce} event:/voiceover/death_g
+{c130e92b-db6f-45da-8899-4e3c4dcd587c} event:/weapons/blocked_hit
+{4f4abf87-d6a8-4f7c-9708-70c2be0ad51c} event:/weapons/gun_hit_character
+{693118ce-7e44-48a3-864c-b30ffcc0da15} event:/weapons/gun_hit_scenery
+{9612875b-cb87-4bdf-8424-4d6939cc1f45} event:/weapons/gun_shoot
+{82c23277-2d98-4ac2-a5d9-44017bf7fbd7} event:/weapons/gunz_combo
+{9952f1a5-0708-4d31-9366-76f9c57cb05d} event:/weapons/punch_hit
+{90607e3e-66d0-47bd-8034-c698aaa167cd} event:/weapons/punch_swing
+{259a7e7d-399d-4e03-9dfc-69575f85e137} event:/weapons/rosez_combo
+{8af0750e-ad61-40d0-a868-dc75c8e512d8} event:/weapons/sword_hit
+{7f1ab80c-5e79-4191-8e95-cfc81d48de8e} event:/weapons/sword_hit_scenery
+{dfa71374-ea5c-4ee3-b2ea-1ce922c4d16c} event:/weapons/sword_slash
+{82090806-92ac-44e9-b4bf-da2437913963} event:/weapons/sword_wave
+{97406bd0-4382-4320-bcf8-bd3835a1d62f} bus:/
+{6cb98288-eefb-45eb-9637-ab4343e9ac78} bus:/Music
+{8ec6f813-eafa-46fd-a4b7-bc45c0da349f} bus:/SFX
+{02963d4f-0a71-4d5c-9936-de75c62c38b0} bus:/Reverb
+{e640034d-06c2-409a-b2f3-64b1c9df0cff} bank:/Master Bank
