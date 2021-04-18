@@ -1,7 +1,8 @@
 # GunsNRoses
 A Smash bros meets Samurai Showdown beat 'em up game.
 
-This game was made by a six-person team for August 2017 Philly Dev Night game jam: Band Jam.
+This game was made by a six-person team in two weeks for August 2017 Philly Dev Night game jam: Band Jam.
+We made further improvements after that.
 
 ## Unity Assets Used But Removed From This Repo
 - Hit & Slashes Vol.3 by Sinestesia Studio https://assetstore.unity.com/packages/vfx/particles/hit-slashes-vol-3-91648
